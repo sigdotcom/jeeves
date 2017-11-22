@@ -1,0 +1,25 @@
+{
+  "name": "jeeves",
+  "version": "1.0.0",
+  "description": "SIG.com discord bot",
+  "main": "index.js",
+  "dependencies": {
+    "node-opus": "^0.2.7"
+  },
+  "devDependencies": {
+    "discord.js": "^11.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigdotcom/jeeves.git"
+  },
+  "author": "SIG.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sigdotcom/jeeves/issues"
+  },
+  "homepage": "https://github.com/sigdotcom/jeeves#readme"
+}
